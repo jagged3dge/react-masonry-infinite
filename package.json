@@ -29,7 +29,7 @@
   "homepage": "https://skoob13.github.io/react-masonry-infinite",
   "dependencies": {
     "bricks.js": "^1.7.0",
-    "react-infinite-scroller": "git+https://github.com/jagged3dges/react-infinite-scroller.git#master"
+    "react-infinite-scroller": "jagged3dge/react-infinite-scroller.git#master"
   },
   "devDependencies": {
     "babel-cli": "^6.14.0",
